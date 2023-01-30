@@ -1,4 +1,4 @@
 # BMI882-Homework
 
-Upload weekly assignment of BMI881
+Upload weekly assignment of BMI882
 
